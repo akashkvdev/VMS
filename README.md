@@ -18,7 +18,6 @@ A web-based system for managing vehicle details, maintenance schedules, and expe
 
 ## Screenshots
 ![Attendance](https://github.com/akashkvdev/VMS/blob/495b8856ac9bef1d81885fb0a1901b421115471f/attendence.png)
-![Start Vehicle Movment](https://via.placeholder.com/800x400.png?text=Maintenance+Report)
 ![fuel Filling](https://github.com/akashkvdev/VMS/blob/495b8856ac9bef1d81885fb0a1901b421115471f/VMS-2Fuel_Expense.png)
 ![Report Fuel Expense](https://github.com/akashkvdev/VMS/blob/495b8856ac9bef1d81885fb0a1901b421115471f/fuelexpenmsereport.png)
 ![Report Vehicle Movment](https://github.com/akashkvdev/VMS/blob/495b8856ac9bef1d81885fb0a1901b421115471f/vehicemovementreport.png)
